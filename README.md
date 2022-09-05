@@ -1,6 +1,3 @@
-# Casswell-Maswanganye
-
-
 <h1 align="center">Hi 👋, I'm Casswell Maswanganye</h1>
 <h3 align="center">A passionate DevOps Engineer from South Africa, Johannesburg</h3>
 
